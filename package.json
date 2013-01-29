@@ -1,0 +1,14 @@
+{
+  "name": "bugsense-jira-proxy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "~3.0.6",
+    "jade": "*",
+    "request": "~2.12.0",
+    "moment": "~1.7.2"
+  }
+}

@@ -1,0 +1,22 @@
+{
+	"node": true,
+	"es5": true,
+	"esnext": true,
+	"camelcase": false,
+	"undef": true,
+	"quotmark": "double",
+	"noempty": true,
+	"eqeqeq": true,
+	"curly": true,
+	"immed": true,
+	"latedef": true,
+	"newcap": true,
+	"noarg": true,
+	"regexp": true,
+	"unused": true,
+	"strict": true,
+	"expr": true,
+	"smarttabs": true,
+	"trailing": true,
+	"eqnull": true
+}
