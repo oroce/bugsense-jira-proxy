@@ -41,9 +41,9 @@ And you can use this project as a bootstrap to connect bugsense with other issue
 
 ### documentation
 
-[JIRA REST API](https://docs.atlassian.com/jira/REST/latest/)
-[Redmine REST API](http://www.redmine.org/projects/redmine/wiki/Rest_api#API-Description)
-Bugsense: oh wait, there's no docs, but that's what reverse engineering is for.:)
+* [JIRA REST API](https://docs.atlassian.com/jira/REST/latest/)
+* [Redmine REST API](http://www.redmine.org/projects/redmine/wiki/Rest_api#API-Description)
+* Bugsense: oh wait, there's no docs, but that's what reverse engineering is for.:)
 
 ### todo
 
